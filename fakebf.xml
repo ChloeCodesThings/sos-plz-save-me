@@ -1,0 +1,8 @@
+// This is sample TwiML for your call
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+  <Say voice="man">Hey girl- call me! It is I, your boyfriend! Please call me as soon as you can! It is very urgent!</Say>
+  <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>

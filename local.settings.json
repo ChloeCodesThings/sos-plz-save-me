@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "{AzureWebJobsStorage}",
+    "RECIPIENT_NUMBER": "{your-twilio-phone-number}",
+    "SENDER_NUMBER": "{your-phone-number}",
+    "TWILIO_SID": "{your-twilio-sid}",
+    "TWILIO_TOKEN": "{your-twilio-token}",
+    "TWIML_URL": "{your-twiml-url}"
+  }
+}

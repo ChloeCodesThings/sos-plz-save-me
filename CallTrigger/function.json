@@ -1,0 +1,29 @@
+{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "entryPoint": "callUser",
+      "name": "req",
+      "methods": [
+        "get",
+        "post"
+      ]
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "twilioSms",
+      "name": "message",
+      "accountSidSetting": TWILIO_SID,
+      "authTokenSetting": TWILIO_TOKEN,
+      "from": SENDER_NUMBER,
+      "to": RECIPIENT_NUMBER,
+      "direction": "out"
+    }
+  ]
+}
