@@ -6,6 +6,8 @@
 Have you ever wished you could magically get a call in the middle of an awkward social situation?
 Then you've come to the right place!
 
+![diagram](https://cdn-images-1.medium.com/max/1600/1*epHpHigBLPGaCK5tuxzn4w.png)
+
 # What's in this repo 📝
 
 + Sample TwiML
