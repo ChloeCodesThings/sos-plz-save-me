@@ -38,7 +38,7 @@ Then you've come to the right place!
 
 7. Push your [Flic Button](https://amzn.to/2FzdJZo)! *(If you need music for inspo, try [this](https://youtu.be/kAjrKYstfDM?t=102) 🙃🎶)*
 
-🚨 Need more visuals? Stuck? You can read my blog post [here](LINK!) for a more verbose version. 🚨
+🚨 Need more visuals? Stuck? You can read my blog post [here](https://medium.com/@chloecondon/an-ambiverts-guide-to-azure-functions-95931976c565) for a more verbose version. 🚨
 
 
 
