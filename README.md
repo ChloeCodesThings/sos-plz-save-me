@@ -55,4 +55,4 @@ Otherwise, you'll get a message about your trail account before each message.
 Yes- you can get a [free account here](https://azure.microsoft.com/en-us/free/?wt.mc_id=sosplzsaveme-github-chcondon)
 
 #### Did you build this because guys are creepy around you?
-No, I built this because I'm an ambivert. You can read all about that [here](LINK).
+No, I built this because I'm an ambivert. You can read all about that [here](https://medium.com/microsoftazure/an-ambiverts-guide-to-azure-functions-95931976c565).
